@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "portopoliot",
+    "slug": "snack-77b1352f-a49d-4f56-9333-d006c395dfe2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.gandhidhuta.snack77b1352fa49d4f569333d006c395dfe2"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b48f245c-c7a6-4b45-b4c5-e5496766d689"
+      }
+    }
+  }
+}
